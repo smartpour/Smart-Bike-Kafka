@@ -1,0 +1,8 @@
+INFO:__main__:Kafka producer initialized with bootstrap servers: localhost:9092
+INFO:__main__:Test message published successfully
+INFO:kafka_client:Kafka producer initialized with bootstrap servers: localhost:9092
+INFO:kafka_client:Kafka producer initialized with bootstrap servers: localhost:9092
+INFO:kafka_client:Kafka producer initialized with bootstrap servers: localhost:9092
+INFO:kafka_client:Kafka producer initialized with bootstrap servers: localhost:9092
+INFO:kafka_client:Kafka producer initialized with bootstrap servers: localhost:9092
+INFO:kafka_client:Kafka producer initialized with bootstrap servers: localhost:9092

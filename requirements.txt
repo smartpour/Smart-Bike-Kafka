@@ -1,0 +1,7 @@
+# Kafka Python client
+kafka-python==2.0.2
+
+# Existing MQTT dependencies (to be removed later)
+
+# Other existing dependencies
+gatt==0.2.7
